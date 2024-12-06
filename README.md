@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python code: improperly handling non-numeric values when calculating an average.  The initial code attempts to handle empty lists gracefully, but fails to consider the scenario where the input list may contain non-numeric data types. The solution shows how to robustly handle this situation by adding input validation.
